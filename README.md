@@ -16,40 +16,9 @@ Full Stack Developer | Linux Enthusiast | Systems Programming Learner
 
 ## 🛠 Tech Stack
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-
-### Database
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-
-### Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
-
----
-
-## 📌 Featured Projects
-
-### 🛒 Cartify
-Scalable E-Commerce Platform built with MERN Stack.
-
-**Features**
-- Authentication & Authorization
-- Product Management
-- Shopping Cart
-- Order Tracking
-- Admin Dashboard
-
-### 🐧 Systems Programming Projects
-Exploring Linux internals, filesystems, process management, and kernel development.
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,java,c,python,linux,git" />
+</p>
 
 ---
 
