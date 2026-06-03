@@ -20,16 +20,6 @@ Full Stack Developer | Linux Enthusiast | Systems Programming Learner
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,java,c,python,linux,git" />
 </p>
 
----
-
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PlutoDog95&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PlutoDog95&layout=compact)
-
----
-
 ## 🤝 Connect With Me
 
 - GitHub: https://github.com/PlutoDog95
