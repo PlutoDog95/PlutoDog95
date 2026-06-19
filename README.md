@@ -24,3 +24,4 @@ Full Stack Developer | Linux Enthusiast | Systems Programming Learner
 
 - GitHub: https://github.com/PlutoDog95
 - LinkedIn: www.linkedin.com/in/vineet-agarwal95
+- Linux: https://lore.kernel.org/all/?q=vineet+agarwal
